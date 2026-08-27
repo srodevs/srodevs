@@ -1,14 +1,13 @@
-# 👋 ¡Hola! Soy Rodrigo —  Android Developer
+# 👋 ¡Hola! Soy Rodrigo
 
-Desarrollador con enfoque en Android y tecnologías modernas. Me caracterizo por trabajar con buenas prácticas,
-escribir código limpio y mantener una visión clara de arquitectura, rendimiento y mantenibilidad.
+Ingeniero Android enfocado en Kotlin, Jetpack Compose, Clean Architecture, modularización, rendimiento y calidad de código. 📱
 
-  - Aprendiendo nuevas tecnologías y herramientas.
-  - 📌 Actualmente desarollando para terminales de cobro.
+  - 📱 Construyendo y mejorando aplicaciones móviles con foco en **arquitectura, rendimiento y experiencia de usuario**.
+  - 🍎 Navegando por **Swift y SwiftUI** y explorando el desarrollo nativo en iOS.
 
 ---
 
-## 🚀 Tecnologías y herramientas ⚙️
+## ⚙️ Tecnologías y herramientas 
 
 <p align="left">
     <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
@@ -33,15 +32,10 @@ escribir código limpio y mantener una visión clara de arquitectura, rendimient
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
     <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
     <img src="https://img.shields.io/badge/Google_Play_Console-34A853?style=for-the-badge&logo=google-play&logoColor=white"/>
     <img src="https://img.shields.io/badge/Firebase_Console-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoCo
 </p>
 
 ---
@@ -57,4 +51,3 @@ escribir código limpio y mantener una visión clara de arquitectura, rendimient
 
 ---
 
-> 👋 *Bye.*
