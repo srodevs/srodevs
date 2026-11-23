@@ -42,9 +42,7 @@ query($login: String!) {
     name
     login
     pullRequests { totalCount }
-    issues { totalCount }
     contributionsCollection { contributionYears }
-    repositoriesContributedTo(contributionTypes: [COMMIT, PULL_REQUEST, ISSUE, REPOSITORY]) { totalCount }
   }
 }`;
 
@@ -110,13 +108,11 @@ function statsSvg(user, stars, commits) {
     ["⭐", "Total Stars", stars],
     ["🕒", "Total Commits", commits],
     ["🔀", "Total PRs", user.pullRequests.totalCount],
-    ["❗", "Total Issues", user.issues.totalCount],
-    ["📦", "Contribuyó a", user.repositoriesContributedTo.totalCount],
   ];
   const body = rows
     .map(
       ([icon, label, val], i) => `
-    <g transform="translate(25, ${70 + i * 26})">
+    <g transform="translate(25, ${82 + i * 38})">
       <text class="icon" x="0" y="0">${icon}</text>
       <text class="label" x="28" y="0">${esc(label)}:</text>
       <text class="value" x="300" y="0">${fmt(val)}</text>
