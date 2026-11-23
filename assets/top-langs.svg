@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="467" height="195" viewBox="0 0 467 195" role="img" aria-label="Lenguajes más usados">
+  <style>
+    .title { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #00AEFF; }
+    .lang  { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #FFFFFF; }
+  </style>
+  <rect x="0.5" y="0.5" rx="4.5" width="466" height="194" fill="#050F2C" stroke="#1b2a4e"/>
+  <text class="title" x="25" y="35">Lenguajes más usados</text>
+  <defs><clipPath id="bar"><rect x="0" y="0" width="417" height="8" rx="4"/></clipPath></defs>
+  <g transform="translate(25, 55)"><g clip-path="url(#bar)"><rect x="0.00" y="0" width="339.36" height="8" fill="#A97BFF"/><rect x="339.36" y="0" width="58.12" height="8" fill="#F05138"/><rect x="397.48" y="0" width="10.09" height="8" fill="#f1e05a"/><rect x="407.57" y="0" width="9.43" height="8" fill="#e34c26"/></g></g>
+  <g transform="translate(25, 80)">
+    <g transform="translate(0, 0)">
+      <circle cx="5" cy="6" r="5" fill="#A97BFF"/>
+      <text class="lang" x="16" y="10">Kotlin 81.38%</text>
+    </g>
+    <g transform="translate(210, 0)">
+      <circle cx="5" cy="6" r="5" fill="#F05138"/>
+      <text class="lang" x="16" y="10">Swift 13.94%</text>
+    </g>
+    <g transform="translate(0, 26)">
+      <circle cx="5" cy="6" r="5" fill="#f1e05a"/>
+      <text class="lang" x="16" y="10">JavaScript 2.42%</text>
+    </g>
+    <g transform="translate(210, 26)">
+      <circle cx="5" cy="6" r="5" fill="#e34c26"/>
+      <text class="lang" x="16" y="10">HTML 2.26%</text>
+    </g>
+  </g>
+</svg>

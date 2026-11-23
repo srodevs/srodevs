@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="467" height="195" viewBox="0 0 467 195" role="img" aria-label="GitHub stats de srodevs">
+  <style>
+    .title { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #00AEFF; }
+    .label { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #FFFFFF; }
+    .value { font: 700 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #2DDE98; }
+    .icon  { font: 14px sans-serif; }
+  </style>
+  <rect x="0.5" y="0.5" rx="4.5" width="466" height="194" fill="#050F2C" stroke="#1b2a4e"/>
+  <text class="title" x="25" y="35">GitHub Stats de Rodrigo Martin</text>
+    <g transform="translate(25, 70)">
+      <text class="icon" x="0" y="0">⭐</text>
+      <text class="label" x="28" y="0">Total Stars:</text>
+      <text class="value" x="300" y="0">2</text>
+    </g>
+    <g transform="translate(25, 96)">
+      <text class="icon" x="0" y="0">🕒</text>
+      <text class="label" x="28" y="0">Total Commits:</text>
+      <text class="value" x="300" y="0">82</text>
+    </g>
+    <g transform="translate(25, 122)">
+      <text class="icon" x="0" y="0">🔀</text>
+      <text class="label" x="28" y="0">Total PRs:</text>
+      <text class="value" x="300" y="0">21</text>
+    </g>
+    <g transform="translate(25, 148)">
+      <text class="icon" x="0" y="0">❗</text>
+      <text class="label" x="28" y="0">Total Issues:</text>
+      <text class="value" x="300" y="0">0</text>
+    </g>
+    <g transform="translate(25, 174)">
+      <text class="icon" x="0" y="0">📦</text>
+      <text class="label" x="28" y="0">Contribuyó a:</text>
+      <text class="value" x="300" y="0">0</text>
+    </g>
+</svg>
