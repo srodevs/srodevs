@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Rodrigo
 
 Ingeniero Android enfocado en Kotlin, Jetpack Compose, Clean Architecture, modularización,
-rendimiento y calidad de código. 📱
+rendimiento y calidad de código.
 
 - 📱 Construyendo y mejorando aplicaciones móviles con foco en **arquitectura, rendimiento y
   experiencia de usuario**.
@@ -46,8 +46,8 @@ rendimiento y calidad de código. 📱
 
 <p align="center">
 <a href="https://github.com/srodevs">
-    <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=srodevs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=srodevs&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" width="49%" src="./assets/stats.svg" alt="GitHub stats"/>
+    <img height="180em" width="49%" src="./assets/top-langs.svg" alt="Top Langs"/>
 </a>
 </p>
 
